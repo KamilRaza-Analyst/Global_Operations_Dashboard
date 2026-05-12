@@ -14,19 +14,25 @@ Strategic Insights: A dedicated analysis sheet identifying high-impact areas for
 
 From the analysis, three critical business insights were identified:                                    
 1. The Hour 9 Bottleneck: Discovered a consistent spike in "Service Leakage" (Abandoned Tasks) at 09:00 AM, likely due to shift handovers.
+
 2.Regional Latency: Identified that the AMER region has the highest Average Wait Time (43.2s), suggesting an immediate need for resource reallocation.
+
 3. Efficiency Leader: The Retail unit was identified as the most productive segment, handling 72.3 tasks per agent.                                                                                                         
 
 💡 Recommendations
 
  1.Implement 'Bridge Shifts': Introduce a 2-hour staffing overlap (08:30 – 10:30) to cover the morning volume surge.
+
  2. Cross-Regional Support: Reallocate 15% of APAC agent bandwidth to support AMER queues during peak hours.
+
  3. Best Practice Transfer: Conduct a workflow audit of the Retail unit to standardize their high-efficiency methods across other departments.                                                                                                 
 
 🛠️ Tools Used
 
- Microsoft Excel: Pivot Tables, Slicers, Calculated Fields, and Conditional Formatting.
+ Microsoft Excel: Pivot Tables, Slicers, Calculated Fields, and Conditional Formatting. 
+ 
  Data Storytelling: Translating technical metrics into executive-level recommendations.
+ 
  Project Documentation: Created a comprehensive "Read Me" and Strategic Analysis report.                      
 
 📂 Files in this Repository
